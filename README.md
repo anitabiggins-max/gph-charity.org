@@ -1,8 +1,7 @@
 
 # 🌱 GrandParents Hands & Children Charity — Student Volunteer Hub
 
-Welcome! This is the home for students who want to use their **tech, design, data, or creative skills** to support youth, grandparents raising children, and families in crisis. Every contribution helps us build safer, stronger, more connected communities.
-
+Welcome! This is the home for students who want to use their **tech, design, data, or creative skills** to support teachers, mentors, parents, and students attending public schools in Ohio.  
 ---
 
 ## 💡 What You Can Work On
